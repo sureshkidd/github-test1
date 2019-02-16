@@ -1,1 +1,12 @@
-edu 3 file
+edu 3 file!!!
+In Marsh, I am involved in testing policy Administration Systems, Claim Management Systems and Risk Management Solutions.
+
+My daily responsibilities are to : 
+
+ Collaboration with dev and/business to drill down the product features on need basis.
+  Produce high quality test scripts both from manual and test automation perspective.
+  Prepare/collate appropriate test data and prepare test data sheets.
+  Execute test scripts, log detailed defects and build traceability.
+  Participate in defect triage and track defects to closure.
+  Track and report quality (coverage, defects) time and productivity metrics for the responsible areas 
+  Identify regression test scripts and work with QA Automation Engineer(s) to automate them before      next sprint/execution cycle.  
